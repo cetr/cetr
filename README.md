@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![知雨's github stats](https://github-readme-stats.vercel.app/api?username=cetr&show_icons=true&bg_color=24292e&title_color=ffffff&text_color=ffffff)](https://github.com/cetr)
+
 <!--
 **cetr/cetr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
