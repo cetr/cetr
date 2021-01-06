@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![](https://img.shields.io/badge/-https://blog.coor.top-3db6f1?style=flat-squar&logo=google&logoColor=fff)](https://blog.coor.top)
+
 [![知雨's github stats](https://github-readme-stats.vercel.app/api?username=cetr&show_icons=true&bg_color=24292e&title_color=ffffff&text_color=ffffff)](https://github.com/cetr)
 
 <!--
