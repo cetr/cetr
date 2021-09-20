@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<a href="https://coor.top" target="_blank"><img src="https://img.shields.io/badge/-https://coor.top-3db6f1?style=flat-squar&logo=google&logoColor=fff"/></a>
+[![](https://img.shields.io/badge/-https://coor.top-3db6f1?style=flat-squar&logo=google&logoColor=fff)](https://coor.top)
 
 [![知雨's github stats](https://github-readme-stats.vercel.app/api?username=cetr&show_icons=true&bg_color=ffffff&title_color=24292e&text_color=24292e)](https://github.com/cetr)
 
